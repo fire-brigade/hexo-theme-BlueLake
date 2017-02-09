@@ -19,11 +19,11 @@ menu:
 # Sidebar
 widgets:
   - search
-  - category
+  # - category
   - tag
-  - archive
+  # - archive
   - recent_posts
-  - recent_comments
+  # - recent_comments
   ##- weibo
   ##- links
 
@@ -54,26 +54,17 @@ swiftype: ## Your swiftype_key, e.g. m7b11ZrsT8Me7gzApciT
 tinysou: ## Your tinysou_key, e.g. 4ac092ad8d749fdc6293
 
 #Cmments
-duoshuo: ## Your duoshuo_shortname, e.g. username
+duoshuo: keeley
 disqus: ## Your disqus_shortname, e.g. username
 
 # About page 
 about:
-  photo_url: ## Your photo e.g. http://obzf7z93c.bkt.clouddn.com/themeauthor.jpg
-  email: ## Your email e.g.  zhenggchaoo@gmail.com
+  photo_url: https://dn-keeley.qbox.me/artive.jpeg
+  email: keeley.jun@qq.com 
   weibo_url: ## Your weibo's url e.g.  http://weibo.com/zhengchaooo
   weibo_name: ## Your weibo's name e.g.  秋过冬漫长
-  github_url: ## Your github'url e.g.  https://github.com/chaooo
-  github_name: ## Your github'name e.g.  chaooo
-
-# Friend link
-links:
-  - title: site-name1
-    url: http://www.example1.com/
-  - title: site-name2
-    url: http://www.example2.com/
-  - title: site-name3
-    url: http://www.example3.com/
+  github_url: https://github.com/keeleys 
+  github_name: keeleys ## Your github'name e.g.  chaooo
 
 
 # Miscellaneous
